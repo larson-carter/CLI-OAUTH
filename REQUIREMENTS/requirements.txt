@@ -1,1 +1,32 @@
-EXAMPLES
+sudo apt-get update && sudo apt-get upgrade -y
+
+sudo apt-get install default-jre
+
+sudo apt-get install openjdk-8-jdk
+
+sudo apt install python2.7 python-pip
+
+sudo apt install python3-pip
+
+sudo apt-get install -y python3-pip
+
+curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+
+sudo apt-get install -y nodejs
+
+sudo npm install npm --global
+
+sudo apt install gcc
+
+sudo apt install build-essential
+
+sudo apt-get install autoconf bison libxml2-dev apache2-dev systemtap-sdt-dev openssl pkg-config libssl-dev libcurl4-openssl-dev libbz2-dev libgdbm-dev libjpeg62 libjpeg62-dev libpng12-0 libpng12-dev libfreetype6-dev libicu-dev libiodbc2-dev libxslt1-dev
+
+curl -O https://storage.googleapis.com/golang/go1.6.linux-amd64.tar.gz
+
+tar xvf go1.6.linux-amd64.tar.gz
+
+sudo chown -R root:root ./go
+
+sudo mv go /usr/local
+
