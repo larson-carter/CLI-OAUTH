@@ -1,1 +1,1 @@
-SCRIPT GOES HERE
+./requirements.sh
