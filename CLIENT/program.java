@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class program {
+public class Main {
 
   public static void main(String[] args) {
 
@@ -15,6 +15,10 @@ public class program {
       Scanner input2 = new Scanner(System.in);
 
       String password = input2.nextLine();
+
+      String uname[] = {username};
+
+      String pword[] = {password};
 
   }
 
